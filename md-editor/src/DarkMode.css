@@ -1,0 +1,30 @@
+body {
+    background-color: #4b5253;
+  }
+  
+  textarea {
+    background-color: #4b5253 !important;
+    color: white !important; 
+  }
+  
+  a {
+    color: lightblue;
+  }
+  
+  pre code {
+    color: lightgoldenrodyellow;
+  }
+  
+  .container {
+    background-color: #4b5253;
+    color: white;
+    margin-top: 24px;
+  }
+  
+  .form-control {
+    color: white;
+    background-color: #4b5253;
+    background-clip: padding-box;
+    border: 3px solid lightsalmon;
+    border-radius: 10px;;
+  }
